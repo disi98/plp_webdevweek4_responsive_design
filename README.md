@@ -1,1 +1,5 @@
-# plp_webdevweek4_responsive_design
+# PLP WEBDEVELOPMENT: CSS Layouts and Responsive Designs
+
+## Files
+- <code>index.html</code>
+- <code>style.css</code>
